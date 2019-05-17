@@ -1,0 +1,10 @@
+# Site settings
+
+title: Awesome Project Site
+github_username: cdworkshops
+description: >
+ This is a practice site to demo GitHub Pages.
+
+# Build settings
+markdown: kramdown
+theme: minima
